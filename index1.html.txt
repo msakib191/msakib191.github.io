@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+
+<head>
+	<title>Personal Webpage</title>
+</head>
+
+<body>
+	<font size="4"> <p align>Personal Information</p> </font>
+	<font size="3">This Page contains the basic information such as name, birth date,
+	birth place, present address and permanent adress.
